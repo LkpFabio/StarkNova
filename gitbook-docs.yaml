@@ -2,6 +2,4 @@ site:
   title: "StarkNova Documentation"
   root: ./
   structure:
-    # Define aquí la página de entrada principal de tu documentación (por ejemplo, tu README)
-    pages:
-      - README.md
+    - README.md
