@@ -3,30 +3,11 @@ site:
   title: StarkNova Documentation
   structure:
     - type: section
-      key: starknova
-      title: StarkNova
-      path: starknova
-      default: true
-      children:
-        - type: space
-          key: starknova-docs
-          title: StarkNova
-          path: docs
-          default: true
-          content:
-            directory: ./
-        - type: space
-          key: space-2
-          title: documentos
-          path: documentos
-          draft: true
-          content:
-            directory: ./imported-content
-    - type: section
       key: section-1
       title: documentos
       path: documentos
       description: ""
+      default: true
       children:
         - type: space
           key: space-1
