@@ -15,6 +15,13 @@ site:
           default: true
           content:
             directory: ./
+        - type: space
+          key: space-2
+          title: documentos
+          path: documentos
+          draft: true
+          content:
+            directory: ./imported-content
     - type: section
       key: section-1
       title: documentos
@@ -23,7 +30,7 @@ site:
       children:
         - type: space
           key: space-1
-          title: Imported content
+          title: StarkNova documentos
           path: imported-content
           default: true
           draft: true
