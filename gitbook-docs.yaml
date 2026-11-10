@@ -2,4 +2,6 @@ site:
   title: "StarkNova Documentation"
   root: ./
   structure:
-    - file: README.md
+    - kind: page
+      title: "Introducción"
+      file: README.md
