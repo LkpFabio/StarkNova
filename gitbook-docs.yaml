@@ -1,6 +1,16 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: "StarkNova Documentation"
-  root: ./
+  title: StarkNova Documentation
   structure:
-    - path: ./
-      title: "StarkNova"
+    - type: section
+      key: starknova
+      title: StarkNova
+      path: starknova
+      children:
+        - type: space
+          key: starknova-docs
+          title: StarkNova
+          path: docs
+          default: true
+          content:
+            directory: ./
