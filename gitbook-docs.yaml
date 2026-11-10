@@ -2,5 +2,5 @@ site:
   title: "StarkNova Documentation"
   root: ./
   structure:
-    pages:
-      - README.md
+    - path: ./
+      title: "StarkNova"
