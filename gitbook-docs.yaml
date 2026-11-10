@@ -15,3 +15,16 @@ site:
           default: true
           content:
             directory: ./
+    - type: section
+      key: section-1
+      title: Imported content
+      path: imported-content
+      children:
+        - type: space
+          key: space-1
+          title: Imported content
+          path: imported-content
+          default: true
+          draft: true
+          content:
+            directory: ./imported-content
