@@ -6,6 +6,7 @@ site:
       key: starknova
       title: StarkNova
       path: starknova
+      default: true
       children:
         - type: space
           key: starknova-docs
