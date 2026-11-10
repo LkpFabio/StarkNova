@@ -4,14 +4,14 @@ site:
   structure:
     - type: section
       key: section-1
-      title: documentos
+      title: Starknova
       path: documentos
       description: ""
       default: true
       children:
         - type: space
           key: space-1
-          title: StarkNova documentos
+          title: Starknova
           path: imported-content
           default: true
           draft: true
