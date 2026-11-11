@@ -15,4 +15,4 @@ site:
           path: imported-content
           default: true
           content:
-            directory: ./imported-content
+            directory: ./
