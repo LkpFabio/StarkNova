@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
-* [ERS\_IEEE 830\_JARVIS\_](README.md)
-* [Arquitectura\_de\_datos\_JARVIS](arquitectura_de_datos_jarvis.md)
+* [ERS_IEEE 830_JARVIS_](README.md)
+* [Arquitectura de datos JARVIS](arquitectura_de_datos_jarvis.md)
