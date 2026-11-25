@@ -19,7 +19,8 @@ site:
     - type: section
       key: section-2
       title: Imported content
-      path: imported-content
+      path: manual-usuario
+      description: ""
       children:
         - type: space
           key: space-2
