@@ -21,6 +21,7 @@ site:
       title: Imported content
       path: manual-usuario
       description: ""
+      icon: user
       children:
         - type: space
           key: space-2
