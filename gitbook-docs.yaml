@@ -18,14 +18,14 @@ site:
             directory: ./
     - type: section
       key: section-2
-      title: Imported content
+      title: manual-usuario
       path: manual-usuario
       description: ""
       icon: user
       children:
         - type: space
           key: space-2
-          title: Imported content
+          title: manual-usuario
           path: imported-content
           default: true
           content:
